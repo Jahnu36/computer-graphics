@@ -9,7 +9,7 @@ A unique twist on the classic brick breaker game where players match word pairs 
 <details>
 <summary>Click to see gameplay demo!</summary>
 
-[![Gameplay Video](path_to_video_thumbnail.png)](path_to_your_video)
+[![Gameplay Video](path_to_video_thumbnail.png)](https://github.com/Jahnu36/computer-graphics/blob/main/Gaming%20-%20Level1%20-%20PC%2C%20Mac%20%26%20Linux%20Standalone%20-%20Unity%202020.3.41f1%20Personal_%20_DX11_%202024-11-30%2002-46-13.mp4)
 </details>
 
 ## 🎯 Game Features
