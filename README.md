@@ -118,11 +118,11 @@ classDiagram
 
 ## 🔧 Core Components
 
-Paddle: Handles player movement and ball attachment
-Ball: Manages ball physics, aiming, and speed adjustments
-Brick: Controls word display, floating animation, and collision detection
-GameManager: Handles scoring, word validation, and game state
-Timer: Manages game time and time-based mechanics
+- Paddle: Handles player movement and ball attachment
+- Ball: Manages ball physics, aiming, and speed adjustments
+- Brick: Controls word display, floating animation, and collision detection
+- GameManager: Handles scoring, word validation, and game state
+- Timer: Manages game time and time-based mechanics
 
 ## 🛠️ Technical Features
 
